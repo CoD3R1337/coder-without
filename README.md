@@ -6,6 +6,8 @@ http://m.facebook.com/SpArKCoD3R
 
 Commands for termux Setup
 
+Without login commands 
+
 1: pkg update
 
 2: pkg upgrade
